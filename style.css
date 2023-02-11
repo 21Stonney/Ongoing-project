@@ -1,0 +1,155 @@
+/*styling Body*/
+
+body {
+  background-color: lime;
+}
+
+
+/*Styling the header*/
+  header {
+    text-align: center;
+    padding: 1em;
+  }
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+  }
+  p {
+    font-size: 24px;
+    font-weight: lighter;
+    margin: 0;
+  }
+  address {
+    font-style: normal;
+    font-size: 14px;
+    margin-top: 1em;
+    text-align: center;
+  }
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  hr {
+    border: 0;
+    height: 2px;
+    background-color: #333;
+    margin: 1.5em 0;
+  }
+
+  /* Styling section Career Goals*/
+
+  section {
+    margin: 2em 0;
+  }
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    font-size: 20px;
+    font-weight: lighter;
+    margin: 0.5em 0;
+  }
+
+
+/* Styling section Skills*/
+
+  section {
+    margin: 2em 0;
+  }
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0;
+  }
+  h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 1em 0 0.5em 0;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    font-size: 20px;
+    font-weight: lighter;
+    margin: 0.5em 0;
+  }
+
+  /*Styling tables in sections Work Experience, Education and References*/
+
+  section {
+    margin: 2em 0;
+  }
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: lightgray;
+    font-weight: bold;
+  }
+  td {
+    font-size: 18px;
+  }
+
+  /*Styling section Achievements*/
+
+  #achievements {
+    margin-top: 20px;
+  }
+
+  #achievements h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+
+  #achievements ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  #achievements li {
+    margin-bottom: 10px;
+  }
+
+  /*Styling section Hobbies and Interests*/
+
+  #hobbies {
+    margin-top: 20px;
+  }
+
+  #hobbies h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+
+  #hobbies ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  #hobbies li {
+    margin-bottom: 10px;
+  }
+
+  
